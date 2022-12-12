@@ -1,0 +1,12 @@
+/logs/
+/logs
+/app/
+/app
+logs/
+logs
+app/
+app
+*.log
+logs/apache/error.log
+logs/php/error.log
+logs/php/php-fpm.log

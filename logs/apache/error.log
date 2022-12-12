@@ -13,3 +13,6 @@ AH00558: httpd: Could not reliably determine the server's fully qualified domain
 AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
 [Mon Dec 12 09:39:02.900883 2022] [mpm_event:notice] [pid 20466:tid 140095882468672] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
 [Mon Dec 12 09:39:02.901063 2022] [core:notice] [pid 20466:tid 140095882468672] AH00094: Command line: '/home/admin25052022/.config/Local/lightning-services/apache-2.4.43+7/bin/linux/bin/httpd -D FOREGROUND -f /home/admin25052022/.config/Local/run/kxF8M0Kzl/conf/apache/apache2.conf'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 12 10:25:38.482584 2022] [mpm_event:notice] [pid 26589:tid 139974964497728] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Dec 12 10:25:38.482697 2022] [core:notice] [pid 26589:tid 139974964497728] AH00094: Command line: '/home/admin25052022/.config/Local/lightning-services/apache-2.4.43+7/bin/linux/bin/httpd -D FOREGROUND -f /home/admin25052022/.config/Local/run/kxF8M0Kzl/conf/apache/apache2.conf'
